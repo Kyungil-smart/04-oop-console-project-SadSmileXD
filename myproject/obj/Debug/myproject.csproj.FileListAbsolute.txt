@@ -6,3 +6,11 @@ C:\Users\phyco\Desktop\myproject\bin\Debug\myproject.pdb
 C:\Users\phyco\Desktop\myproject\obj\Debug\myproject.exe
 C:\Users\phyco\Desktop\myproject\obj\Debug\myproject.pdb
 C:\Users\phyco\Desktop\myproject\obj\Debug\myproject.exe.config
+C:\Users\phyco\Documents\GitHub\04-oop-console-project-SadSmileXD\myproject\bin\Debug\myproject.exe.config
+C:\Users\phyco\Documents\GitHub\04-oop-console-project-SadSmileXD\myproject\bin\Debug\myproject.exe
+C:\Users\phyco\Documents\GitHub\04-oop-console-project-SadSmileXD\myproject\bin\Debug\myproject.pdb
+C:\Users\phyco\Documents\GitHub\04-oop-console-project-SadSmileXD\myproject\obj\Debug\myproject.csproj.AssemblyReference.cache
+C:\Users\phyco\Documents\GitHub\04-oop-console-project-SadSmileXD\myproject\obj\Debug\myproject.exe.config
+C:\Users\phyco\Documents\GitHub\04-oop-console-project-SadSmileXD\myproject\obj\Debug\myproject.csproj.CoreCompileInputs.cache
+C:\Users\phyco\Documents\GitHub\04-oop-console-project-SadSmileXD\myproject\obj\Debug\myproject.exe
+C:\Users\phyco\Documents\GitHub\04-oop-console-project-SadSmileXD\myproject\obj\Debug\myproject.pdb

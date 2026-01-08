@@ -19,9 +19,8 @@ namespace SadSmile
         {
             Player = new GameObject();
             Player.AddComponent(new PlayerStatus("김재성"));
-         
-           var Data=Player.GetComponent<PlayerStatus>();
-            Data.StatusPrintf();
+            var Data=Player.GetComponent<Transform>();
+            Player.AddComponent(new PlayerMove(Data));
 
 
         }
@@ -39,10 +38,8 @@ namespace SadSmile
         public override void Update()
         {
 
-            if (InputManager.GetKey(ConsoleKey.UpArrow))
-             {
-                Console.WriteLine("I누름");
-             }
+            Player?.Update();
+
         }
     }
 }

@@ -47,9 +47,10 @@
     <Compile Include="FrameWork\Application\TextRPG.cs" />
     <Compile Include="FrameWork\GameObject\GameObject.cs" />
     <Compile Include="FrameWork\GameObject\IComponent.cs" />
-    <Compile Include="FrameWork\SceneManager\Scene.cs" />
+    <Compile Include="FrameWork\Scene\Scene.cs" />
     <Compile Include="FrameWork\SceneManager\SceneManager.cs" />
     <Compile Include="InputSystem\InputManager.cs" />
+    <Compile Include="Player\PlayerMove.cs" />
     <Compile Include="Player\PlayerStatus.cs" />
     <Compile Include="FrameWork\Transform\Position.cs" />
     <Compile Include="Program.cs" />

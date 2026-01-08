@@ -1,93 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\phyco\\Desktop\\04Project\\",
+  "WorkspaceRootPath": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|c:\\users\\phyco\\desktop\\04project\\gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\scenes\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:scenes\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\managers\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:managers\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\scenes\\logscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:scenes\\logscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\observableproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\observableproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\ractangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\ractangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\textextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\textextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:managers\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:managers\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\managers\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:managers\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\menulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\menulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:scenes\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\scenes\\storyscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:scenes\\townscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|c:\\users\\phyco\\documents\\github\\04-oop-console-project-sadsmilexd\\04project\\scenes\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:scenes\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\menulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\menulist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\scenes\\storyscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:scenes\\storyscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\gameobjects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\scenes\\logscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:scenes\\logscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:gameobjects\\playercharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:gameobjects\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\tile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\observableproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\observableproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\ractangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\ractangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\textextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\textextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\gameobjects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:gameobjects\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:gameobjects\\potion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Desktop\\04Project\\utils\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\utils\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5884CBEB-1C76-44D2-B796-1473AD98B2C6}|04Project.csproj|solutionrelative:utils\\iinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 304,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,119 +106,197 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Managers\\InputManager.cs",
-              "RelativeDocumentMoniker": "Managers\\InputManager.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Managers\\InputManager.cs",
-              "RelativeToolTip": "Managers\\InputManager.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:14:01.752Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SceneManager.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Managers\\SceneManager.cs",
-              "RelativeDocumentMoniker": "Managers\\SceneManager.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Managers\\SceneManager.cs",
-              "RelativeToolTip": "Managers\\SceneManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:11:44.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TitleScene.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\TitleScene.cs",
-              "RelativeDocumentMoniker": "Scenes\\TitleScene.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\TitleScene.cs",
-              "RelativeToolTip": "Scenes\\TitleScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:48.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Vector.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Vector.cs",
-              "RelativeDocumentMoniker": "Utils\\Vector.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Vector.cs",
-              "RelativeToolTip": "Utils\\Vector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:25.278Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "TextExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\TextExtensions.cs",
-              "RelativeDocumentMoniker": "Utils\\TextExtensions.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\TextExtensions.cs",
-              "RelativeToolTip": "Utils\\TextExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:17.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Ractangle.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Ractangle.cs",
-              "RelativeDocumentMoniker": "Utils\\Ractangle.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Ractangle.cs",
-              "RelativeToolTip": "Utils\\Ractangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:11.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlayerCharacter.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\GameObjects\\PlayerCharacter.cs",
-              "RelativeDocumentMoniker": "GameObjects\\PlayerCharacter.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\GameObjects\\PlayerCharacter.cs",
-              "RelativeToolTip": "GameObjects\\PlayerCharacter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:01:30.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Program.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-08T07:01:13.599Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ObservableProperty.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\ObservableProperty.cs",
-              "RelativeDocumentMoniker": "Utils\\ObservableProperty.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\ObservableProperty.cs",
-              "RelativeToolTip": "Utils\\ObservableProperty.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TownScene.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\TownScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\TownScene.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\TownScene.cs",
+              "RelativeToolTip": "Scenes\\TownScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:04.47Z"
+              "WhenOpened": "2026-01-08T07:04:54.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Managers\\GameManager.cs",
+              "RelativeDocumentMoniker": "Managers\\GameManager.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Managers\\GameManager.cs",
+              "RelativeToolTip": "Managers\\GameManager.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:05:02.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LogScene.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\LogScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\LogScene.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\LogScene.cs",
+              "RelativeToolTip": "Scenes\\LogScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:04:32.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Managers\\SceneManager.cs",
+              "RelativeDocumentMoniker": "Managers\\SceneManager.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Managers\\SceneManager.cs",
+              "RelativeToolTip": "Managers\\SceneManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:11:44.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TitleScene.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\TitleScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\TitleScene.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\TitleScene.cs",
+              "RelativeToolTip": "Scenes\\TitleScene.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowDsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:04:48.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\Scene.cs",
+              "RelativeDocumentMoniker": "Scenes\\Scene.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\Scene.cs",
+              "RelativeToolTip": "Scenes\\Scene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:04:37.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoryScene.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\StoryScene.cs",
+              "RelativeDocumentMoniker": "Scenes\\StoryScene.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Scenes\\StoryScene.cs",
+              "RelativeToolTip": "Scenes\\StoryScene.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:04:42.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Vector.cs",
+              "RelativeDocumentMoniker": "Utils\\Vector.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Vector.cs",
+              "RelativeToolTip": "Utils\\Vector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:04:25.278Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Managers\\InputManager.cs",
+              "RelativeDocumentMoniker": "Managers\\InputManager.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Managers\\InputManager.cs",
+              "RelativeToolTip": "Managers\\InputManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:14:01.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\GameObjects\\PlayerCharacter.cs",
+              "RelativeDocumentMoniker": "GameObjects\\PlayerCharacter.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\GameObjects\\PlayerCharacter.cs",
+              "RelativeToolTip": "GameObjects\\PlayerCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:01:30.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuList.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\MenuList.cs",
+              "RelativeDocumentMoniker": "Utils\\MenuList.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\MenuList.cs",
+              "RelativeToolTip": "Utils\\MenuList.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:03:56.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\GameObjects\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObjects\\GameObject.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\GameObjects\\GameObject.cs",
+              "RelativeToolTip": "GameObjects\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:05:14.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Inventory.cs",
+              "RelativeDocumentMoniker": "Utils\\Inventory.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Inventory.cs",
+              "RelativeToolTip": "Utils\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:03:50.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Debug.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Debug.cs",
+              "RelativeDocumentMoniker": "Utils\\Debug.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Debug.cs",
+              "RelativeToolTip": "Utils\\Debug.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:03:16.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Tile.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Tile.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Tile.cs",
               "RelativeDocumentMoniker": "Utils\\Tile.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Tile.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Tile.cs",
               "RelativeToolTip": "Utils\\Tile.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,119 +305,46 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Debug.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Debug.cs",
-              "RelativeDocumentMoniker": "Utils\\Debug.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Debug.cs",
-              "RelativeToolTip": "Utils\\Debug.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Title": "ObservableProperty.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\ObservableProperty.cs",
+              "RelativeDocumentMoniker": "Utils\\ObservableProperty.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\ObservableProperty.cs",
+              "RelativeToolTip": "Utils\\ObservableProperty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:03:16.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TownScene.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\TownScene.cs",
-              "RelativeDocumentMoniker": "Scenes\\TownScene.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\TownScene.cs",
-              "RelativeToolTip": "Scenes\\TownScene.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:54.454Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Inventory.cs",
-              "RelativeDocumentMoniker": "Utils\\Inventory.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\Inventory.cs",
-              "RelativeToolTip": "Utils\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:03:50.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Managers\\GameManager.cs",
-              "RelativeDocumentMoniker": "Managers\\GameManager.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Managers\\GameManager.cs",
-              "RelativeToolTip": "Managers\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:05:02.766Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LogScene.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\LogScene.cs",
-              "RelativeDocumentMoniker": "Scenes\\LogScene.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\LogScene.cs",
-              "RelativeToolTip": "Scenes\\LogScene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:32.599Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\GameObjects\\GameObject.cs",
-              "RelativeDocumentMoniker": "GameObjects\\GameObject.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\GameObjects\\GameObject.cs",
-              "RelativeToolTip": "GameObjects\\GameObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:05:14.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Scene.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\Scene.cs",
-              "RelativeDocumentMoniker": "Scenes\\Scene.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\Scene.cs",
-              "RelativeToolTip": "Scenes\\Scene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:37.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "StoryScene.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\StoryScene.cs",
-              "RelativeDocumentMoniker": "Scenes\\StoryScene.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Scenes\\StoryScene.cs",
-              "RelativeToolTip": "Scenes\\StoryScene.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:04:42.407Z"
+              "WhenOpened": "2026-01-08T07:04:04.47Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "MenuList.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\MenuList.cs",
-              "RelativeDocumentMoniker": "Utils\\MenuList.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\MenuList.cs",
-              "RelativeToolTip": "Utils\\MenuList.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAADwvwcAAAAFAAAAAAAAAA==",
+              "Title": "Ractangle.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Ractangle.cs",
+              "RelativeDocumentMoniker": "Utils\\Ractangle.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\Ractangle.cs",
+              "RelativeToolTip": "Utils\\Ractangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:03:56.918Z"
+              "WhenOpened": "2026-01-08T07:04:11.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\TextExtensions.cs",
+              "RelativeDocumentMoniker": "Utils\\TextExtensions.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\TextExtensions.cs",
+              "RelativeToolTip": "Utils\\TextExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:04:17.679Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\GameObjects\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\GameObjects\\Item.cs",
               "RelativeDocumentMoniker": "GameObjects\\Item.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\GameObjects\\Item.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\GameObjects\\Item.cs",
               "RelativeToolTip": "GameObjects\\Item.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,9 +354,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Potion.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\GameObjects\\Potion.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\GameObjects\\Potion.cs",
               "RelativeDocumentMoniker": "GameObjects\\Potion.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\GameObjects\\Potion.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\GameObjects\\Potion.cs",
               "RelativeToolTip": "GameObjects\\Potion.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -361,9 +366,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "IInteractable.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\IInteractable.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\IInteractable.cs",
               "RelativeDocumentMoniker": "Utils\\IInteractable.cs",
-              "ToolTip": "C:\\Users\\phyco\\Desktop\\04Project\\Utils\\IInteractable.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\04Project\\Utils\\IInteractable.cs",
               "RelativeToolTip": "Utils\\IInteractable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
