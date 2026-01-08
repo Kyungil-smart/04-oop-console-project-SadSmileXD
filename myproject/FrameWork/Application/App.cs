@@ -36,7 +36,7 @@ namespace SadSmile
             Start();
             while (true)
             {
-                InputManager.GetUserInput();
+               
                 Update();
             }
         }

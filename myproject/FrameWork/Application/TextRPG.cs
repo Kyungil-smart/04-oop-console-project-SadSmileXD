@@ -21,8 +21,10 @@ namespace SadSmile
             Player.AddComponent(new PlayerStatus("김재성"));
             var Data=Player.GetComponent<Transform>();
             Player.AddComponent(new PlayerMove(Data));
-
-
+            ///
+            SceneManager.OnChangeScene += InputManager.ResetKey;
+            SceneManager.AddScene("test", new TitleScene());
+            SceneManager.Change("test");
         }
 
         public override void OnEnable()
@@ -37,9 +39,11 @@ namespace SadSmile
 
         public override void Update()
         {
-
+           Console.Clear();
+            SceneManager.Render();
+            InputManager.GetUserInput();
             Player?.Update();
-
+            SceneManager.Update();
         }
     }
 }

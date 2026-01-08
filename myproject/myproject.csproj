@@ -49,6 +49,7 @@
     <Compile Include="FrameWork\GameObject\IComponent.cs" />
     <Compile Include="FrameWork\Scene\Scene.cs" />
     <Compile Include="FrameWork\SceneManager\SceneManager.cs" />
+    <Compile Include="FrameWork\Scene\TitleScene.cs" />
     <Compile Include="InputSystem\InputManager.cs" />
     <Compile Include="Player\PlayerMove.cs" />
     <Compile Include="Player\PlayerStatus.cs" />
