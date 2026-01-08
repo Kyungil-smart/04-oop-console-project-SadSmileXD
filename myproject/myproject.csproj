@@ -51,6 +51,7 @@
     <Compile Include="FrameWork\SceneManager\SceneManager.cs" />
     <Compile Include="FrameWork\Scene\TitleScene.cs" />
     <Compile Include="InputSystem\InputManager.cs" />
+    <Compile Include="Player\PlayerManager.cs" />
     <Compile Include="Player\PlayerMove.cs" />
     <Compile Include="Player\PlayerStatus.cs" />
     <Compile Include="FrameWork\Transform\Position.cs" />

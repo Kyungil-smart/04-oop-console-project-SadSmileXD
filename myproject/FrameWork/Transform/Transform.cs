@@ -28,6 +28,14 @@ namespace SadSmile
             this.m_Position.y = y;
         }
 
+        public void MoveTransform(int x,int y)
+        {
+            this.m_Position.x += x;
+            this.m_Position.y += y;
+        }
+
+
+
         public void Update() { }
         
     }

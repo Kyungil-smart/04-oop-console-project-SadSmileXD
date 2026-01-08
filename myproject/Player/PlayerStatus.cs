@@ -24,6 +24,11 @@ namespace SadSmile
             m_mp = 500;
         }
 
+        public void SetStatus(int hp,int mp)
+        {
+            this.m_hp += hp;
+            this.m_mp += mp;
+        }
         public void StatusPrintf()
         {
             int width = 18;
