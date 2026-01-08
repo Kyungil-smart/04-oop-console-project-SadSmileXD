@@ -1,0 +1,8 @@
+C:\Users\phyco\Desktop\04Project\obj\Debug\04Project.csproj.AssemblyReference.cache
+C:\Users\phyco\Desktop\04Project\obj\Debug\04Project.csproj.CoreCompileInputs.cache
+C:\Users\phyco\Desktop\04Project\bin\Debug\04Project.exe.config
+C:\Users\phyco\Desktop\04Project\bin\Debug\04Project.exe
+C:\Users\phyco\Desktop\04Project\bin\Debug\04Project.pdb
+C:\Users\phyco\Desktop\04Project\obj\Debug\04Project.exe
+C:\Users\phyco\Desktop\04Project\obj\Debug\04Project.pdb
+C:\Users\phyco\Desktop\04Project\obj\Debug\04Project.exe.config
