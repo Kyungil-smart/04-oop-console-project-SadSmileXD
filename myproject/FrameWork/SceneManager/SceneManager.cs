@@ -48,11 +48,16 @@ namespace SadSmile
         public static void Update()
         {
             Current?.Update();
+           
         }
 
         public static void Render()
         {
             Current?.Render();
+            if (TextRPG.GameClear)
+            {
+                Environment.Exit(0);
+            }
         }
     }
 }

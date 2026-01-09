@@ -46,6 +46,9 @@ namespace SadSmile
             Console.WriteLine("####################");
         }
      
-        public void Update() { }
+        public void Update() 
+        {
+             
+        }
     }
 }

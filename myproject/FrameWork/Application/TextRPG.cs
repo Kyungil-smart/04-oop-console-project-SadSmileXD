@@ -9,7 +9,7 @@ namespace SadSmile
     public class TextRPG : App
     {
         GameObject Player; 
-        
+        public static bool GameClear=false;
         public override void Run()
         {
             base.Run();
@@ -17,8 +17,9 @@ namespace SadSmile
 
         public override void Awake()
         {
+           
             Player = new GameObject();
-            Player.AddComponent(new PlayerStatus("김재성"));
+            Player.AddComponent(new PlayerStatus("김재성 강사님"));
             var status = Player.GetComponent<PlayerStatus>();
             //
             var TransformData = Player.Transform;
@@ -52,6 +53,7 @@ namespace SadSmile
             InputManager.GetUserInput();
             Player?.Update();
             SceneManager.Update();
+          
         }
     }
 }

@@ -35,16 +35,46 @@ namespace SadSmile
         {
             var pos= PlayerManager.Instance.move.position;
             var  Oldpos= PlayerManager.Instance.move.Old_pos;
-            if(pos.x<0 || pos.y<0 || pos.x>=20 || pos.y>=20)
+            bool isOutOfBounds =pos.x < 0 || pos.y < 0 || pos.x >= 20 || pos.y >= 20;
+            if (isOutOfBounds)
             {
                 Position oldpos = PlayerManager.Instance.move.Old_pos;
                 PlayerManager.Instance.move.m_PlayerTransform.SetTransform(oldpos.x, oldpos.y);
                 return;
             }
+
             maps[Oldpos.y, Oldpos.x] = ' ';
             maps[maps.GetLength(0) - 1, maps.GetLength(1) - 1] = 'G';
-           
-                
+
+            if (maps[pos.y, pos.x] == 'B')
+            {
+                var dir = pos - Oldpos;   // ← 핵심 수정
+
+                maps[pos.y, pos.x] = ' ';
+               
+                if (maps[pos.y + dir.y, pos.x + dir.x]=='G')
+                {
+
+                    maps = new char[10, 10]
+                    {
+                        { 'G','A','M','E',' ','C','L','E','R',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' },
+                        { ' ',' ',' ',' ',' ',' ',' ',' ',' ',' ' }
+                    };
+                    TextRPG.GameClear = true;
+                    return;
+                   
+                }
+                maps[pos.y + dir.y, pos.x + dir.x] = 'B';
+
+            }
             maps[pos.y, pos.x] = 'P';
 
            
