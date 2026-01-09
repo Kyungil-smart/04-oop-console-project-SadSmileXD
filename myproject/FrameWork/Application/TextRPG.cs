@@ -17,16 +17,22 @@ namespace SadSmile
 
         public override void Awake()
         {
-           
+           //게임오브젝트 생성
             Player = new GameObject();
-            Player.AddComponent(new PlayerStatus("김재성 강사님"));
+
+            //컴포넌트 생성하고 데이터 입력
+            Player.AddComponent<PlayerStatus>();
             var status = Player.GetComponent<PlayerStatus>();
+            status.SetStatus(500, 500, "이인");
             //
             var TransformData = Player.Transform;
-            Player.AddComponent(new PlayerMove(TransformData));
+            //이동 처리 로직
+            Player.AddComponent<PlayerMove>();
             var movedata=Player.GetComponent<PlayerMove>();
+
+            movedata.m_PlayerTransform = Player.GetComponent<Transform>();
             //
-            Player.AddComponent(new PlayerManager());
+            Player.AddComponent<PlayerManager>();
             //연결
             PlayerManager.Instance.status = status;
             PlayerManager.Instance.move = movedata;

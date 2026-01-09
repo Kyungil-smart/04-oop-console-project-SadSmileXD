@@ -15,8 +15,13 @@ namespace SadSmile
             m_PlayerTransform = tr;
         }
 
+        public PlayerMove()
+        {
+
+        }
         public Position Old_pos=new Position();
         public Position position => m_PlayerTransform.position;
+
         public void Update()
         {
             if (InputManager.GetKey(ConsoleKey.UpArrow))

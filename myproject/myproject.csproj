@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Bgm\Bgm.cs" />
     <Compile Include="FrameWork\Application\App.cs" />
     <Compile Include="FrameWork\Application\TextRPG.cs" />
     <Compile Include="FrameWork\GameObject\GameObject.cs" />

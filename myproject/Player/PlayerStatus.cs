@@ -23,12 +23,19 @@ namespace SadSmile
             m_hp = 5000;
             m_mp = 500;
         }
+        public PlayerStatus()
+        {
 
-        public void SetStatus(int hp,int mp)
+        }
+
+        public void SetStatus(int hp,int mp,string name)
         {
             this.m_hp += hp;
             this.m_mp += mp;
+            this.m_name = name;
         }
+
+        
         public void StatusPrintf()
         {
             int width = 18;

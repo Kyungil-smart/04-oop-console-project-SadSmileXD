@@ -10,9 +10,10 @@ namespace SadSmile
     {
         private List<IComponent> components = new List<IComponent>();
         public Transform Transform;
-        public void AddComponent<T>(T component) where T : IComponent
+        public void AddComponent<T>() where T : IComponent,new()
         {
-            components.Add(component);
+            T Data=new T();
+            components.Add(Data);
         }
 
         public T GetComponent<T>() where T : IComponent
@@ -28,8 +29,10 @@ namespace SadSmile
 
         public GameObject()
         {
-            Transform = new Transform();
-            
+            AddComponent<Transform>();
+            Transform = GetComponent<Transform>();
+
+
         }
     }
 
