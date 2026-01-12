@@ -49,6 +49,7 @@
     <Compile Include="FrameWork\GameObject\IComponent.cs" />
     <Compile Include="FrameWork\GameObject\Map\baseMap.cs" />
     <Compile Include="FrameWork\GameObject\Map\firstMap.cs" />
+    <Compile Include="FrameWork\GameObject\Map\GameClear.cs" />
     <Compile Include="FrameWork\Scene\Scene.cs" />
     <Compile Include="FrameWork\SceneManager\SceneManager.cs" />
     <Compile Include="FrameWork\Scene\TitleScene.cs" />

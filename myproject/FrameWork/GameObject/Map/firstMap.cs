@@ -8,7 +8,7 @@ namespace SadSmile
 {
     public class firstMap : baseMap
     {
-        public firstMap()
+        public firstMap()  
         {
             GenerateMap();
             width= map.GetLength(0);
@@ -44,9 +44,6 @@ namespace SadSmile
             return map;
         }
 
-        public override void Update()
-        {
-             
-        }
+       
     }
 }
