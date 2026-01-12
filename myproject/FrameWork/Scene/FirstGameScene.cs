@@ -12,7 +12,7 @@ namespace SadSmile
         char[,] maps ;
         baseMap map;
         GameObject Goal = new GameObject();
-
+        GameObject Box1=new GameObject();
         public override void Enter()
         {
             PlayerManager.Instance.move.m_PlayerTransform.SetPosition(1, 1);
@@ -20,6 +20,7 @@ namespace SadSmile
             map = new firstMap();
             maps = map.GenerateMap();
             Goal.Transform.SetPosition(maps.GetLength(0) - 2, maps.GetLength(1) - 2);
+            Box1.Transform.SetPosition(6, 5);
             draw();
         }
 
@@ -28,7 +29,7 @@ namespace SadSmile
             var pos = PlayerManager.Instance.move.position;
             maps[pos.y, pos.x] = 'P';
             maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
-            maps[15, 6] = 'B';
+            maps[Box1.Transform.position.y, Box1.Transform.position.x] = 'B';
         }
 
         public override void Update()
@@ -52,8 +53,8 @@ namespace SadSmile
             {
                 maps[pos.y, pos.x] = ' ';
 
-                bool iswall = maps[pos.y + dir.y, pos.x + dir.x] == '#';
-                bool isGoal = maps[pos.y + dir.y, pos.x + dir.x] == 'G';
+                bool iswall = maps[Box1.Transform.position.y + dir.y, Box1.Transform.position.x + dir.x] == '#';
+                bool isGoal = maps[Box1.Transform.position.y + dir.y, Box1.Transform.position.x + dir.x] == 'G';
                 if (isGoal)
                 {
                     map=new GameClear();
@@ -71,7 +72,8 @@ namespace SadSmile
                     maps[Oldpos.y, Oldpos.x] = 'P';
                     return;
                 }
-                maps[pos.y + dir.y, pos.x + dir.x] = 'B';
+                Box1.Transform.SetPosition( Box1.Transform.position.x + dir.x, Box1.Transform.position.y + dir.y);
+                maps[Box1.Transform.position.y, Box1.Transform.position.x] = 'B';
 
             }
             maps[pos.y, pos.x] = 'P';
