@@ -1,99 +1,67 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace SadSmile
 {
     public class TitleScene:Scene
     {
-        char[,] maps ;
-        baseMap map;
-        GameObject Goal = new GameObject();
-
+        int selectinx = 0;
+        string[] name = { "게임시작", "종료" };
         public override void Enter()
-        {
-            map = new firstMap();
-            maps = map.GenerateMap();
-            Goal.Transform.SetPosition(maps.GetLength(0) - 2, maps.GetLength(1) - 2);
-            draw();
-        }
-
-        public void draw()
-        {
-            var pos = PlayerManager.Instance.move.position;
-            maps[pos.y, pos.x] = 'P';
-            maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
-            maps[15, 6] = 'B';
-        }
-
-        public override void Update()
-        {
-            var pos= PlayerManager.Instance.move.position;
-            var Oldpos= PlayerManager.Instance.move.Old_pos;
-            var dir = pos - Oldpos;
-         
-            bool isOutOfBounds =pos.x < 0 || pos.y < 0 || pos.x >= 20 || pos.y >= 20|| maps[pos.y, pos.x]=='#';
-            if (isOutOfBounds)
-            {
-                Position oldpos = PlayerManager.Instance.move.Old_pos;
-                PlayerManager.Instance.move.m_PlayerTransform.SetPosition(oldpos.x, oldpos.y);
-                return;
-            }
-
-            maps[Oldpos.y, Oldpos.x] = ' ';
-            maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
-         
-            if (maps[pos.y, pos.x] == 'B')
-            {
-                maps[pos.y, pos.x] = ' ';
-
-                bool iswall = maps[pos.y + dir.y, pos.x + dir.x] == '#';
-                bool isGoal = maps[pos.y + dir.y, pos.x + dir.x] == 'G';
-                if (isGoal)
-                {
-                    map=new GameClear();
-                    maps = map.GenerateMap();
-                   
-                    TextRPG.GameClear = true;
-                    return;
-
-                }
-                else if (iswall)
-                {
-                    Position oldpos = PlayerManager.Instance.move.Old_pos;
-                    PlayerManager.Instance.move.m_PlayerTransform.SetPosition(oldpos.x, oldpos.y);
-                    maps[pos.y , pos.x ] = 'B';
-                    maps[Oldpos.y, Oldpos.x] = 'P';
-                    return;
-                }
-                maps[pos.y + dir.y, pos.x + dir.x] = 'B';
-
-            }
-            maps[pos.y, pos.x] = 'P';
-
-           
-        }//update
-
-        public override void Exit()
         {
              
         }
 
         public override void Render()
         {
-           Console.WriteLine("입력 방향키 : →←↑↓");
-
-            for(int i=0; i<maps.GetLength(0); i++)
+            if(InputManager.GetKey(ConsoleKey.DownArrow))
             {
-                for(int j=0; j< maps.GetLength(1); j++)
-                {
-                    Console.Write(maps[i, j] );
-                }
-                Console.WriteLine();
+                int idx = selectinx+1;
+                selectinx = idx.Clamp(0, 1);
             }
+            else if(InputManager.GetKey(ConsoleKey.UpArrow))
+            {
+                int idx = selectinx - 1;
+                selectinx = idx.Clamp(0, 1);
+            }
+
+
+            Console.WriteLine("==========");
+            for(int i=0; i<2; i++)
+            {
+                if(selectinx ==i)
+                {
+                    Console.WriteLine(">>"+ name[i]);
+                }
+                else
+                {
+                    Console.WriteLine("  "+name[i]);
+                }
+                   
+            }
+            Console.WriteLine("==========");
+        }
+        public override void Update()
+        {
+            if (InputManager.GetKey(ConsoleKey.Enter))
+            {
+                if(selectinx ==0)
+                {
+                    SceneManager.Change("test");
+                }
+                else
+                {
+                    Environment.Exit(0);
+                }
+            }
+        }
+        public override void Exit()
+        {
+             
         }
     }
 }

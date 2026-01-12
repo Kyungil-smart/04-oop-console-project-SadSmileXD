@@ -38,8 +38,9 @@ namespace SadSmile
             PlayerManager.Instance.move = movedata;
 
             SceneManager.OnChangeScene += InputManager.ResetKey;
-            SceneManager.AddScene("test", new TitleScene());
-            SceneManager.Change("test");
+            SceneManager.AddScene("test", new FirstGameScene());
+            SceneManager.AddScene("title", new TitleScene());
+            SceneManager.Change("title");
         }
 
         public override void OnEnable()
