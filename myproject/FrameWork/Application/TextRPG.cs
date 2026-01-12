@@ -19,7 +19,7 @@ namespace SadSmile
         {
            //게임오브젝트 생성
             Player = new GameObject();
-
+            Player.Transform.SetPosition(1, 1);
             //컴포넌트 생성하고 데이터 입력
             Player.AddComponent<PlayerStatus>();
             var status = Player.GetComponent<PlayerStatus>();

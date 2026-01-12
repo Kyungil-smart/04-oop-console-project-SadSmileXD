@@ -22,7 +22,7 @@ namespace SadSmile
             m_Position.y = 0;   
         }
         
-        public void SetTransform(int x, int y)
+        public void SetPosition(int x, int y)
         {
             this.m_Position.x = x;
             this.m_Position.y = y;

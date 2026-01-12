@@ -10,26 +10,24 @@ namespace SadSmile
     public class TitleScene:Scene
     {
         char[,] maps ;
+        baseMap map;
+        GameObject Goal = new GameObject();
         public override void Enter()
         {
-            maps=new char[20,20];
+            //maps;
+            map = new firstMap();
+            maps = map.GenerateMap();
 
+            Goal.Transform.SetPosition(maps.GetLength(0) - 2, maps.GetLength(1) - 2);
             draw();
         }
+
         public void draw()
         {
-            for (int i = 0; i < maps.GetLength(0); i++)
-            {
-                for (int j = 0; j < maps.GetLength(1); j++)
-                {
-                    maps[i, j] = ' ';
-                }
-
-            }
             var pos = PlayerManager.Instance.move.position;
             maps[pos.y, pos.x] = 'P';
-            maps[maps.GetLength(0) - 1, maps.GetLength(1) - 1] = 'G';
-            maps[15, 10] = 'B';
+            maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
+            maps[15, 6] = 'B';
         }
         public override void Update()
         {
@@ -39,7 +37,7 @@ namespace SadSmile
             if (isOutOfBounds)
             {
                 Position oldpos = PlayerManager.Instance.move.Old_pos;
-                PlayerManager.Instance.move.m_PlayerTransform.SetTransform(oldpos.x, oldpos.y);
+                PlayerManager.Instance.move.m_PlayerTransform.SetPosition(oldpos.x, oldpos.y);
                 return;
             }
 
