@@ -38,17 +38,16 @@ namespace SadSmile
             var Oldpos= PlayerManager.Instance.move.Old_pos;
             var dir = pos - Oldpos;
          
-            bool isOutOfBounds =pos.x < 0 || pos.y < 0 || pos.x >= 20 || pos.y >= 20|| maps[pos.y, pos.x]=='#';
+            bool isOutOfBounds =IsBlocked(pos);
             if (isOutOfBounds)
             {
-                Position oldpos = PlayerManager.Instance.move.Old_pos;
-                PlayerManager.Instance.move.m_PlayerTransform.SetPosition(oldpos.x, oldpos.y);
+                RevertPlayer();
                 return;
             }
 
-            maps[Oldpos.y, Oldpos.x] = ' ';
-            maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
-         
+            ClearOldPlayer(Oldpos);
+            DrawGoal();
+           
             if (maps[pos.y, pos.x] == 'B')
             {
                 maps[pos.y, pos.x] = ' ';
@@ -59,7 +58,6 @@ namespace SadSmile
                 {
                     map=new GameClear();
                     maps = map.GenerateMap();
-                   
                     TextRPG.GameClear = true;
                     return;
 
@@ -68,15 +66,17 @@ namespace SadSmile
                 {
                     Position oldpos = PlayerManager.Instance.move.Old_pos;
                     PlayerManager.Instance.move.m_PlayerTransform.SetPosition(oldpos.x, oldpos.y);
-                    maps[pos.y , pos.x ] = 'B';
-                    maps[Oldpos.y, Oldpos.x] = 'P';
+                    DrawBox(pos);
+                    DrawPlayer(Oldpos);
                     return;
                 }
                 Box1.Transform.SetPosition( Box1.Transform.position.x + dir.x, Box1.Transform.position.y + dir.y);
-                maps[Box1.Transform.position.y, Box1.Transform.position.x] = 'B';
+                DrawBox(Box1.Transform.position);
+              
 
             }
-            maps[pos.y, pos.x] = 'P';
+            DrawPlayer(pos);
+          
 
            
         }//update
@@ -91,5 +91,28 @@ namespace SadSmile
            Console.WriteLine("입력 방향키 : →←↑↓");
            MapRender.Render(maps);
         }
+        bool IsBlocked(Position pos)
+        {
+            return pos.x < 0 || pos.y < 0 ||
+                   pos.x >= 20 || pos.y >= 20 ||
+                   maps[pos.y, pos.x] == '#';
+        }
+
+        void RevertPlayer()
+        {
+            Position old = PlayerManager.Instance.move.Old_pos;
+            PlayerManager.Instance.move.m_PlayerTransform.SetPosition(old.x, old.y);
+        }
+
+
+        void ClearOldPlayer(Position oldPos) => maps[oldPos.y, oldPos.x] = ' ';
+
+        void DrawPlayer(Position pos) => maps[pos.y, pos.x] = 'P';
+
+        void DrawGoal() => maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
+       
+        void DrawBox(Position pos) => maps[pos.y, pos.x] = 'B';
+        
+
     }
 }
