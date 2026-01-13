@@ -31,8 +31,6 @@ namespace SadSmile
         {
             AddComponent<Transform>();
             Transform = GetComponent<Transform>();
-
-
         }
     }
 

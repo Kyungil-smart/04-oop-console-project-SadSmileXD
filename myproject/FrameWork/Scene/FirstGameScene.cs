@@ -9,19 +9,18 @@ namespace SadSmile
 {
     public class FirstGameScene:Scene
     {
-        char[,] maps ;
+        char[,] map ;
         bool isOutOfBounds = false;
-        //////////////////////////////////////////////
-        baseMap map = new firstMap();
+//////////////////////////////////////////////
+        baseMap mapData = new firstMap();
         GameObject Goal = new GameObject();
         GameObject Box1=new GameObject();
 
         Position CurrentPosition=new Position();
         Position OldPosition=new Position();
         Position direction=new Position();
-        //////////////////////////////////////////////
+//////////////////////////////////////////////
 
-        //////////////////////////////////////////////
         public override void Exit()
         {
 
@@ -29,13 +28,14 @@ namespace SadSmile
 
         public override void Enter()
         {
+            CurrentPosition = PlayerManager.Instance.move.position;
             Init();
             draw();
         }
         public override void Render()
         {
             Console.WriteLine("입력 방향키 : →←↑↓");
-            MapRender.Render(maps);
+            MapRenderUtil.Render(map);
         }
         public override void Update()
         {
@@ -57,15 +57,14 @@ namespace SadSmile
         {
             PlayerManager.Instance.move.m_PlayerTransform.SetPosition(1, 1);
 
- 
-            maps = map.GenerateMap();
-            Goal.Transform.SetPosition(maps.GetLength(0) - 2, maps.GetLength(1) - 2);
+            map = mapData.GenerateMap();
+            Goal.Transform.SetPosition(map.GetLength(0) - 2, map.GetLength(1) - 2);
             Box1.Transform.SetPosition(6, 5);
         }
 
         public void draw()
         {
-            CurrentPosition = PlayerManager.Instance.move.position;
+           
             DrawPlayer();
             DrawGoal();
             DrawBox();
@@ -75,7 +74,7 @@ namespace SadSmile
         {
             isOutOfBounds= CurrentPosition.x < 0 || CurrentPosition.y < 0 ||
                    CurrentPosition.x >= 20 || CurrentPosition.y >= 20 ||
-                   maps[CurrentPosition.y, CurrentPosition.x] == '#';
+                   map[CurrentPosition.y, CurrentPosition.x] == '#';
         }
 
         void RevertPlayer()
@@ -93,18 +92,18 @@ namespace SadSmile
         {
             if (isOutOfBounds) return;
 
-            if (maps[CurrentPosition.y, CurrentPosition.x] == 'B')
+            if (map[CurrentPosition.y, CurrentPosition.x] == 'B')
             {
-                maps[CurrentPosition.y, CurrentPosition.x] = ' ';
+                map[CurrentPosition.y, CurrentPosition.x] = ' ';
 
-                bool iswall = maps[Box1.Transform.position.y + direction.y, Box1.Transform.position.x + direction.x] == '#';
-                bool isGoal = maps[Box1.Transform.position.y + direction.y, Box1.Transform.position.x + direction.x] == 'G';
+                bool iswall = map[Box1.Transform.position.y + direction.y, Box1.Transform.position.x + direction.x] == '#';
+                bool isGoal = map[Box1.Transform.position.y + direction.y, Box1.Transform.position.x + direction.x] == 'G';
                 if (isGoal)
                 {
-                    map = new GameClear();
-                    maps = map.GenerateMap();
+                    mapData = new GameClear();
+                    map = mapData.GenerateMap();
                     Console.Clear();
-                    MapRender.Render(maps);
+                    MapRenderUtil.Render(map);
                     Environment.Exit(0);
                     return;
 
@@ -127,22 +126,22 @@ namespace SadSmile
         private void ClearOldPlayer()
         {
             if (isOutOfBounds) return;
-            maps[OldPosition.y, OldPosition.x] = ' ';
+            map[OldPosition.y, OldPosition.x] = ' ';
         }
         private void DrawPlayer()
         {
             if (isOutOfBounds) return;
-            maps[CurrentPosition.y, CurrentPosition.x] = 'P';
+            MapRenderUtil.PlayerRender(map, CurrentPosition);
         }
         private void DrawGoal()
         {
             if (isOutOfBounds) return;
-            maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
+            MapRenderUtil.GoalRender(map,Goal.Transform.position);
         }
         private void DrawBox()
         {
             if (isOutOfBounds) return;
-            maps[Box1.Transform.position.y, Box1.Transform.position.x] = 'B';
+            MapRenderUtil.BoxRender(map, Box1.Transform.position);
         }
         private void GetData()
         {

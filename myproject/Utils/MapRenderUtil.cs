@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SadSmile
 { 
-    public static class MapRender
+    public static class MapRenderUtil
     {
         public static void Render(char[,]maps)
         {
@@ -19,5 +19,10 @@ namespace SadSmile
                 Console.WriteLine();
             }
         }
+
+        public static void PlayerRender(char[,]map,Position pos) =>map[pos.y, pos.x] = 'P';
+        public static void GoalRender  (char[,]map,Position pos) =>map[pos.x, pos.y] = 'G';
+        public static void BoxRender   (char[,]map,Position pos) =>map[pos.y, pos.x] = 'B';
+         
     }
 }

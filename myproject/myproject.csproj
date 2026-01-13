@@ -62,8 +62,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="FrameWork\Transform\Transform.cs" />
-    <Compile Include="Utils\direction.cs" />
-    <Compile Include="Utils\MapRender.cs" />
+    <Compile Include="Utils\MapRenderUtil.cs" />
     <Compile Include="Utils\MathFExtensions.cs" />
     <Compile Include="Utils\Vector2.cs" />
   </ItemGroup>
