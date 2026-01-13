@@ -13,6 +13,10 @@ namespace SadSmile
         baseMap map;
         GameObject Goal = new GameObject();
         GameObject Box1=new GameObject();
+        //////////////////////////////////////////////
+        Position CurrentPosition=new Position();
+        Position OldPosition=new Position();
+        Position direction=new Position();
         public override void Enter()
         {
             PlayerManager.Instance.move.m_PlayerTransform.SetPosition(1, 1);
@@ -34,52 +38,64 @@ namespace SadSmile
 
         public override void Update()
         {
-            var pos= PlayerManager.Instance.move.position;
-            var Oldpos= PlayerManager.Instance.move.Old_pos;
-            var dir = pos - Oldpos;
-         
-            bool isOutOfBounds =IsBlocked(pos);
+            GetData();
+            bool isOutOfBounds = IsBlocked(CurrentPosition);
             if (isOutOfBounds)
             {
                 RevertPlayer();
                 return;
             }
 
-            ClearOldPlayer(Oldpos);
+            ClearOldPlayer();
             DrawGoal();
-           
-            if (maps[pos.y, pos.x] == 'B')
-            {
-                maps[pos.y, pos.x] = ' ';
 
-                bool iswall = maps[Box1.Transform.position.y + dir.y, Box1.Transform.position.x + dir.x] == '#';
-                bool isGoal = maps[Box1.Transform.position.y + dir.y, Box1.Transform.position.x + dir.x] == 'G';
+            bool flowControl = TryPushBox();
+            if (!flowControl)
+            {
+                return;
+            }
+            DrawPlayer( );
+
+
+
+        }//update
+
+        private bool TryPushBox()
+        {
+            if (maps[CurrentPosition.y, CurrentPosition.x] == 'B')
+            {
+                maps[CurrentPosition.y, CurrentPosition.x] = ' ';
+
+                bool iswall = maps[Box1.Transform.position.y + direction.y, Box1.Transform.position.x + direction.x] == '#';
+                bool isGoal = maps[Box1.Transform.position.y + direction.y, Box1.Transform.position.x + direction.x] == 'G';
                 if (isGoal)
                 {
-                    map=new GameClear();
+                    map = new GameClear();
                     maps = map.GenerateMap();
                     TextRPG.GameClear = true;
-                    return;
+                    return false;
 
                 }
                 else if (iswall)
                 {
                     Position oldpos = PlayerManager.Instance.move.Old_pos;
-                    PlayerManager.Instance.move.m_PlayerTransform.SetPosition(oldpos.x, oldpos.y);
-                    DrawBox(pos);
-                    DrawPlayer(Oldpos);
-                    return;
+                    Box1.Transform.SetPosition(CurrentPosition.x, CurrentPosition.y);
+                    PlayerManager.Instance.move.m_PlayerTransform.SetPosition(OldPosition.x, OldPosition.y);
+
+
+                    DrawBox();
+                    DrawPlayer();
+                    return false;
                 }
-                Box1.Transform.SetPosition( Box1.Transform.position.x + dir.x, Box1.Transform.position.y + dir.y);
-                DrawBox(Box1.Transform.position);
-              
 
+                int PosX = Box1.Transform.position.x + direction.x;
+                int PosY = Box1.Transform.position.y + direction.y;
+                Box1.Transform.SetPosition(PosX, PosY);
+                DrawBox();
             }
-            DrawPlayer(pos);
-          
 
-           
-        }//update
+            return true;
+        }
 
         public override void Exit()
         {
@@ -91,6 +107,7 @@ namespace SadSmile
            Console.WriteLine("입력 방향키 : →←↑↓");
            MapRender.Render(maps);
         }
+
         bool IsBlocked(Position pos)
         {
             return pos.x < 0 || pos.y < 0 ||
@@ -105,14 +122,22 @@ namespace SadSmile
         }
 
 
-        void ClearOldPlayer(Position oldPos) => maps[oldPos.y, oldPos.x] = ' ';
+        private void ClearOldPlayer() => maps[OldPosition.y, OldPosition.x] = ' ';
 
-        void DrawPlayer(Position pos) => maps[pos.y, pos.x] = 'P';
+        private void DrawPlayer() => maps[CurrentPosition.y, CurrentPosition.x] = 'P';
 
-        void DrawGoal() => maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
-       
-        void DrawBox(Position pos) => maps[pos.y, pos.x] = 'B';
-        
+        private void DrawGoal() => maps[Goal.Transform.position.x, Goal.Transform.position.y] = 'G';
+
+        private void DrawBox() => maps[Box1.Transform.position.y, Box1.Transform.position.x] = 'B';
+
+        private void GetData()
+        {
+            CurrentPosition = PlayerManager.Instance.move.position;
+            OldPosition = PlayerManager.Instance.move.Old_pos;
+            direction = CurrentPosition.GetDirection(OldPosition); // - Oldpos;
+
+        }
+
 
     }
 }

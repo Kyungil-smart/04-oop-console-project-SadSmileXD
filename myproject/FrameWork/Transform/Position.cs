@@ -26,5 +26,10 @@ namespace SadSmile
         {
             return new Position(a.x - b.x, a.y - b.y);
         }
+
+        public  Position GetDirection( Position value)
+        {
+            return new Position(this.x - value.x, this.y - value.y);
+        }
     }
 }

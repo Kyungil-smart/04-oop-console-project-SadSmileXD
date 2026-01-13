@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|c:\\users\\phyco\\documents\\github\\04-oop-console-project-sadsmilexd\\myproject\\framework\\scene\\firstgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\scene\\firstgamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|c:\\users\\phyco\\documents\\github\\04-oop-console-project-sadsmilexd\\myproject\\utils\\maprender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:utils\\maprender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\transform\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\transform\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|c:\\users\\phyco\\documents\\github\\04-oop-console-project-sadsmilexd\\myproject\\framework\\map\\basemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\map\\basemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\Map\\baseMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrameWork\\GameObject\\Map\\baseMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\transform\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\transform\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|c:\\users\\phyco\\documents\\github\\04-oop-console-project-sadsmilexd\\myproject\\player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:player\\playermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|c:\\users\\phyco\\documents\\github\\04-oop-console-project-sadsmilexd\\myproject\\framework\\scene\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\scene\\titlescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|c:\\users\\phyco\\documents\\github\\04-oop-console-project-sadsmilexd\\myproject\\framework\\map\\gameclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\map\\gameclear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|c:\\users\\phyco\\documents\\github\\04-oop-console-project-sadsmilexd\\myproject\\utils\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:utils\\direction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\map\\firstmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\map\\firstmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\inputsystem\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:inputsystem\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\scenemanager\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\scenemanager\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\player\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,20 +63,8 @@
       "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:player\\playerstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\utils\\maprender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:utils\\maprender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\utils\\mathfextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:utils\\mathfextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\map\\firstmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\map\\firstmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\scene\\scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\utils\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:utils\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\gameobject\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,40 +83,12 @@
       "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\application\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\transform\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\transform\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\scenemanager\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\scenemanager\\scenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\framework\\transform\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:framework\\transform\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\inputsystem\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:inputsystem\\inputmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\Scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrameWork\\SceneManager\\Scene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\utils\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B09816D-68CF-4245-BFCF-48907023E180}|myproject.csproj|solutionrelative:utils\\vector2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\Map\\GameClear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrameWork\\GameObject\\Map\\GameClear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\Map\\baseMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrameWork\\GameObject\\Map\\baseMap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -93,8 +97,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 308,
-          "SelectedChildIndex": 6,
+          "DockedWidth": 234,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -103,66 +107,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "firstMap.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Map\\firstMap.cs",
-              "RelativeDocumentMoniker": "FrameWork\\Map\\firstMap.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Map\\firstMap.cs",
-              "RelativeToolTip": "FrameWork\\Map\\firstMap.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
+              "Title": "TitleScene.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Scene\\TitleScene.cs",
+              "RelativeDocumentMoniker": "FrameWork\\Scene\\TitleScene.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Scene\\TitleScene.cs",
+              "RelativeToolTip": "FrameWork\\Scene\\TitleScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T00:29:47.96Z"
+              "WhenOpened": "2026-01-13T00:26:38.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "GameObject.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\GameObject.cs",
-              "RelativeDocumentMoniker": "FrameWork\\GameObject\\GameObject.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\GameObject.cs",
-              "RelativeToolTip": "FrameWork\\GameObject\\GameObject.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:30:04.236Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PlayerStatus.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerStatus.cs",
-              "RelativeDocumentMoniker": "Player\\PlayerStatus.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerStatus.cs",
-              "RelativeToolTip": "Player\\PlayerStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:54:05.56Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T07:52:07.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlayerMove.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerMove.cs",
-              "RelativeDocumentMoniker": "Player\\PlayerMove.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerMove.cs",
-              "RelativeToolTip": "Player\\PlayerMove.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T13:02:00.967Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PlayerManager.cs",
               "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerManager.cs",
               "RelativeDocumentMoniker": "Player\\PlayerManager.cs",
@@ -175,102 +132,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Scene.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Scene\\Scene.cs",
-              "RelativeDocumentMoniker": "FrameWork\\Scene\\Scene.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Scene\\Scene.cs",
-              "RelativeToolTip": "FrameWork\\Scene\\Scene.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T10:34:54.709Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TextRPG.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Application\\TextRPG.cs",
-              "RelativeDocumentMoniker": "FrameWork\\Application\\TextRPG.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Application\\TextRPG.cs",
-              "RelativeToolTip": "FrameWork\\Application\\TextRPG.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAEwCoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:38:57.603Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IComponent.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\IComponent.cs",
-              "RelativeDocumentMoniker": "FrameWork\\GameObject\\IComponent.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\IComponent.cs",
-              "RelativeToolTip": "FrameWork\\GameObject\\IComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:29:32.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "App.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Application\\App.cs",
-              "RelativeDocumentMoniker": "FrameWork\\Application\\App.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Application\\App.cs",
-              "RelativeToolTip": "FrameWork\\Application\\App.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAEwCcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T07:33:51.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Transform.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Transform\\Transform.cs",
-              "RelativeDocumentMoniker": "FrameWork\\Transform\\Transform.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Transform\\Transform.cs",
-              "RelativeToolTip": "FrameWork\\Transform\\Transform.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:06:37.037Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "SceneManager.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\SceneManager.cs",
-              "RelativeDocumentMoniker": "FrameWork\\SceneManager\\SceneManager.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\SceneManager.cs",
-              "RelativeToolTip": "FrameWork\\SceneManager\\SceneManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:16:05.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Transform\\Position.cs",
               "RelativeDocumentMoniker": "FrameWork\\Transform\\Position.cs",
               "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Transform\\Position.cs",
               "RelativeToolTip": "FrameWork\\Transform\\Position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:04:49.99Z"
+              "WhenOpened": "2026-01-08T08:04:49.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Scene.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\Scene.cs",
-              "RelativeDocumentMoniker": "FrameWork\\SceneManager\\Scene.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\Scene.cs",
-              "RelativeToolTip": "FrameWork\\SceneManager\\Scene.cs",
+              "DocumentIndex": 1,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Transform\\Transform.cs",
+              "RelativeDocumentMoniker": "FrameWork\\Transform\\Transform.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Transform\\Transform.cs",
+              "RelativeToolTip": "FrameWork\\Transform\\Transform.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T09:16:46.76Z"
+              "WhenOpened": "2026-01-08T08:06:37.037Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 7,
+              "Title": "GameClear.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Map\\GameClear.cs",
+              "RelativeDocumentMoniker": "FrameWork\\Map\\GameClear.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Map\\GameClear.cs",
+              "RelativeToolTip": "FrameWork\\Map\\GameClear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:30:06.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "direction.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Utils\\direction.cs",
+              "RelativeDocumentMoniker": "Utils\\direction.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Utils\\direction.cs",
+              "RelativeToolTip": "Utils\\direction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:29:17.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InputManager.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\InputSystem\\InputManager.cs",
+              "RelativeDocumentMoniker": "InputSystem\\InputManager.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\InputSystem\\InputManager.cs",
+              "RelativeToolTip": "InputSystem\\InputManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T08:58:52.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Vector2.cs",
               "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Utils\\Vector2.cs",
               "RelativeDocumentMoniker": "Utils\\Vector2.cs",
@@ -282,80 +209,178 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "InputManager.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\InputSystem\\InputManager.cs",
-              "RelativeDocumentMoniker": "InputSystem\\InputManager.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\InputSystem\\InputManager.cs",
-              "RelativeToolTip": "InputSystem\\InputManager.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Scene\\Scene.cs",
+              "RelativeDocumentMoniker": "FrameWork\\Scene\\Scene.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Scene\\Scene.cs",
+              "RelativeToolTip": "FrameWork\\Scene\\Scene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-08T08:58:52.281Z"
+              "WhenOpened": "2026-01-08T10:34:54.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "firstMap.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Map\\firstMap.cs",
+              "RelativeDocumentMoniker": "FrameWork\\Map\\firstMap.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Map\\firstMap.cs",
+              "RelativeToolTip": "FrameWork\\Map\\firstMap.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T00:29:47.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Player\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerMove.cs",
+              "RelativeToolTip": "Player\\PlayerMove.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:02:00.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T07:52:07.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SceneManager.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\SceneManager.cs",
+              "RelativeDocumentMoniker": "FrameWork\\SceneManager\\SceneManager.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\SceneManager.cs",
+              "RelativeToolTip": "FrameWork\\SceneManager\\SceneManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:16:05.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerStatus.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerStatus.cs",
+              "RelativeDocumentMoniker": "Player\\PlayerStatus.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Player\\PlayerStatus.cs",
+              "RelativeToolTip": "Player\\PlayerStatus.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvxEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:54:05.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\GameObject.cs",
+              "RelativeDocumentMoniker": "FrameWork\\GameObject\\GameObject.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\GameObject.cs",
+              "RelativeToolTip": "FrameWork\\GameObject\\GameObject.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:30:04.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TextRPG.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Application\\TextRPG.cs",
+              "RelativeDocumentMoniker": "FrameWork\\Application\\TextRPG.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Application\\TextRPG.cs",
+              "RelativeToolTip": "FrameWork\\Application\\TextRPG.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAEwCoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:38:57.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IComponent.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\IComponent.cs",
+              "RelativeDocumentMoniker": "FrameWork\\GameObject\\IComponent.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\IComponent.cs",
+              "RelativeToolTip": "FrameWork\\GameObject\\IComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:29:32.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Application\\App.cs",
+              "RelativeDocumentMoniker": "FrameWork\\Application\\App.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Application\\App.cs",
+              "RelativeToolTip": "FrameWork\\Application\\App.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAEwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T07:33:51.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Scene.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\Scene.cs",
+              "RelativeDocumentMoniker": "FrameWork\\SceneManager\\Scene.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\SceneManager\\Scene.cs",
+              "RelativeToolTip": "FrameWork\\SceneManager\\Scene.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T09:16:46.76Z"
             }
           ]
         },
         {
-          "DockedWidth": 300,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 374,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "baseMap.cs",
+              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Map\\baseMap.cs",
+              "RelativeDocumentMoniker": "FrameWork\\Map\\baseMap.cs",
+              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Map\\baseMap.cs",
+              "RelativeToolTip": "FrameWork\\Map\\baseMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T00:30:05.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MapRender.cs",
               "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Utils\\MapRender.cs",
               "RelativeDocumentMoniker": "Utils\\MapRender.cs",
               "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Utils\\MapRender.cs",
               "RelativeToolTip": "Utils\\MapRender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T07:54:41.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MathFExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Utils\\MathFExtensions.cs",
-              "RelativeDocumentMoniker": "Utils\\MathFExtensions.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\Utils\\MathFExtensions.cs",
-              "RelativeToolTip": "Utils\\MathFExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T07:54:39.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "GameClear.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\Map\\GameClear.cs",
-              "RelativeDocumentMoniker": "FrameWork\\GameObject\\Map\\GameClear.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\Map\\GameClear.cs",
-              "RelativeToolTip": "FrameWork\\GameObject\\Map\\GameClear.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T02:07:17.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FirstGameScene.cs",
-              "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Scene\\FirstGameScene.cs",
-              "RelativeDocumentMoniker": "FrameWork\\Scene\\FirstGameScene.cs",
-              "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\Scene\\FirstGameScene.cs*",
-              "RelativeToolTip": "FrameWork\\Scene\\FirstGameScene.cs*",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAcwFAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-12T01:32:02.508Z",
+              "WhenOpened": "2026-01-12T07:54:41.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 3,
               "Title": "baseMap.cs",
               "DocumentMoniker": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\Map\\baseMap.cs",
               "RelativeDocumentMoniker": "FrameWork\\GameObject\\Map\\baseMap.cs",
               "ToolTip": "C:\\Users\\phyco\\Documents\\GitHub\\04-oop-console-project-SadSmileXD\\myproject\\FrameWork\\GameObject\\Map\\baseMap.cs",
               "RelativeToolTip": "FrameWork\\GameObject\\Map\\baseMap.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-12T00:27:05.746Z"
             }
